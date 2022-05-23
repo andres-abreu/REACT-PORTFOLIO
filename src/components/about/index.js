@@ -1,5 +1,3 @@
-
-   
 import React from "react";
 
 function About() {
@@ -10,12 +8,12 @@ function About() {
           id="avatar"
           src={require("../../assets/images/VOJFE9840.jpeg")}
           alt="Placeholder avatar"
-          className="m-3"
+          className="m-1"
         ></img>
-        <div className="m-5 text-center" id="aboutMe">
+        <div className="m-5 text-left" id="aboutMe">
           <h2 className="fw-bold">About Me</h2>
           <p className="fw-bold lh-lg">
-           I am a South-Florida native, with an extensive background with the fields of medicine both western and eastern practices, psychology, music-production/business,    
+           I'm originally from South-Florida, I have an extensive-background with the fields of western/eastern- medicine, psychology, real-estate, music-writing/engineering/production/business.  Now adding full-stack-web-development into my skill-set,  
           </p>
         </div>
       </section>

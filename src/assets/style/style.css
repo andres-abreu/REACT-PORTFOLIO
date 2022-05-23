@@ -5,8 +5,8 @@ html {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: rgb(198, 202, 207);
-    font-family: 'BIZ UDPGothic', sans-serif;
+    background-color: rgb(241, 246, 247);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   /* body {
     height: 100%;
@@ -14,7 +14,7 @@ html {
   } */
   
   nav, footer {
-    background-color: #eb8a90;
+    background-color: transparent;
   }
   
   footer{
@@ -31,8 +31,8 @@ html {
   
   #avatar {
     max-height: 45vh;
-    border-radius: 50px;
-    border: 5px solid black;
+    border-radius: 200px;
+    border: none;
   }
   
   #resumeImg {
@@ -45,7 +45,7 @@ html {
   }
   
   #contactBtn {
-    background-color: #eb8a90
+    background-color: #98ec86
   }
   
   .my-border{

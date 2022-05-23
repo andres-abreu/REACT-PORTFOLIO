@@ -21,7 +21,7 @@ function Header(props) {
       <nav className="navbar navbar-expand-lg navbar-light sticky-top">
         <div className="container-fluid">
           <a className="navbar-brand fw-bold" href="/">
-            Alex Noble-James
+            Andres Abreu
           </a>
           <button
             className="navbar-toggler"
