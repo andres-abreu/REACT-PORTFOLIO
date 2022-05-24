@@ -9,6 +9,13 @@ function Portfolio() {
       liveURL: "https://stormy-scrubland-05355.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/BUDGET-TRACKER"
     },
+    {
+      name: "Weather Dashboard",
+      id: "weather-dashboard",
+      description: "This online weather dashboard application allows the user to view weather conditions from cities all over the world. Includes the ability to view both current weather data and a future five day forecast, as well as save the user's last 5 searches.",
+      liveUrl: "https://andres-abreu.github.io/WEATHER-DASHBOARD/",
+      gitHub: "https://github.com/andres-abreu/WEATHER-DASHBOARD"
+    },
 ]    
 return (
   <section>
@@ -31,4 +38,4 @@ return (
 );
 }
 
-export default Portfolio;
+export default Portfolio
