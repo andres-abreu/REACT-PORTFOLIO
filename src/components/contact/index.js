@@ -97,7 +97,7 @@ function Contact() {
           </div>
           <div className="text-center">
             <button id="contactBtn" className="btn">
-              Submit!
+              Send!
             </button>
           </div>
           

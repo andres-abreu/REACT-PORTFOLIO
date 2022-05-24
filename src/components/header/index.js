@@ -39,7 +39,7 @@ function Header(props) {
               {categories.map((cat, i) => (
                 <li
                   onClick={() => changeCat(cat.name)}
-                  className={`nav-item text-end mx-2 my-2 point ${
+                  className={`nav-item text-end mx-3 my-3 point ${
                     currentCat !== cat.name && "text-muted"
                   }`}
                   key={cat.name}

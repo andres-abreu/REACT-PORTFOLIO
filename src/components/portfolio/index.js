@@ -5,17 +5,19 @@ function Portfolio() {
     {
       name: "Budget Tracker",
       id: "budget-tracker",
-      description: "As the name states, this is a simple budget-tracker, utilizaing indexedDB & service-worker-functionality which provides a mobile-first PWA user-experience.",
+      description: "As the name states, this is a simple finance-ledger, utilizaing indexedDB & service-worker-functionality which provides a mobile-first PWA user-experience.",
       liveURL: "https://stormy-scrubland-05355.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/BUDGET-TRACKER"
     },
+
     {
       name: "Weather Dashboard",
       id: "weather-dashboard",
-      description: "This online weather dashboard application allows the user to view weather conditions from cities all over the world. Includes the ability to view both current weather data and a future five day forecast, as well as save the user's last 5 searches.",
+      description: "This is a weather API that indicates the current weather at your chosen location.",
       liveUrl: "https://andres-abreu.github.io/WEATHER-DASHBOARD/",
       gitHub: "https://github.com/andres-abreu/WEATHER-DASHBOARD"
     },
+
 ]    
 return (
   <section>
@@ -23,7 +25,7 @@ return (
     {projects.map((proj, i)=>(
     <div key={i} className="d-flex flex-column m-5 p-3 my-border card">
       <div className="text-center">
-        <img className="p-image" src={require(`../../assets/images/${proj.id}.png`)} alt="Project Screenshot"></img>
+        <img className="p-image" src={require(`../../assets/images ${proj.id}.png`)} alt="Project Screenshot"></img>
       </div>
       <div className="mx-auto text-center">
         <h3 className="fw-bold m-2">{proj.name}</h3>
@@ -38,4 +40,4 @@ return (
 );
 }
 
-export default Portfolio
+export default Portfolio;

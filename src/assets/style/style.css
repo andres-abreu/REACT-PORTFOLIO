@@ -4,7 +4,7 @@ html {
   body, #root, .full {
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     background-color: rgb(241, 246, 247);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
@@ -37,11 +37,11 @@ html {
   
   #resumeImg {
     /* hit this with some media queries */
-    max-height: 20vw;
+    max-height: 5vw;
   } 
   
   #skillCard {
-    width: 28rem;
+    width: 30rem;
   }
   
   #contactBtn {
