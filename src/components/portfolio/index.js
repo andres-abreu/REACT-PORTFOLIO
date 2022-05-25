@@ -62,6 +62,14 @@ function Portfolio() {
       gitHub: "https://github.com/andres-abreu/PASSWORD-GENERATOR"
     },
 
+    {
+      name: "Find It",
+      id: "find-it-screen-shot",
+      description: "FIND-IT allows users to buy and sell products via the FIND-IT market-place.",
+      liveURL: "https://limitless-beach-87360.herokuapp.com/",
+      gitHub: "https://github.com/andres-abreu/FIND-IT"
+    },
+
 
   ];
   return (
