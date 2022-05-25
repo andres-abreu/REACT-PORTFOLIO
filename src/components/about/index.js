@@ -13,7 +13,7 @@ function About() {
         <div className="m-5 text-left" id="aboutMe">
           <h2 className="fw-bold">About Me</h2>
           <p className="fw-bold lh-lg">
-           I'm originally from South-Florida, I have an extensive-background with the fields of western/eastern- medicine, psychology, e-commerce, real-estate, music-writing/engineering/production/business and currently a recording-studio-owner. Now adding full-stack-web-development into my skill-set, allows me to take more control with more tools in regards to my businesses, interests or work.  I am specifically a bit-coin-blockchain-enthusiast, I currently run a bit-coin/lightning-node.
+          I'm a South-Florida native, with an extensive-background in the fields of medicine[both eastern/western], psychology, e-commerce, real-estate, music-writing/publishing, audio-engineering/production, music-business and currently a recording-studio-owner. Adding full-stack-web-development into my skill-set was a inspirational, motivational and strategic-choice in which allows more control and options with more tools in regards to business or personal-interests, work or simply creativity.  Further more, as a bit-coin-block-chain supporter and ethusiast, I run my own bit-coin-block-chain/lightning-network-node.
           </p>
         </div>
       </section>
