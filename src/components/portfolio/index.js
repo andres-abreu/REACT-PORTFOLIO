@@ -16,9 +16,28 @@ function Portfolio() {
       id: "weather-dashboard_Screen Shot",
       description:
         "This is a weather API that indicates the current weather at your chosen location.",
-      liveUrl: "https://andres-abreu.github.io/WEATHER-DASHBOARD/",
-      gitHub: "https://github.com/andres-abreu/WEATHER-DASHBOARD",
+      liveURL: "https://andres-abreu.github.io/WEATHER-DASHBOARD/",
+      gitHub: "https://github.com/andres-abreu/WEATHER-DASHBOARD"
     },
+
+    {
+      name: "Love Calculator",
+      id: "love-calculator-screen-shot",
+      description:
+        "This love calculator was created using three separate API's, from Spotify, Pexels and RapidAPI's love- calculator. Within this project we also used the following CDNS: Jquery (for shorter code), Materialize(for faster UX/UI) and Google fonts.",
+      liveURL: "https://zela7alex.github.io/love-match-calculator/",
+      gitHub: "https://github.com/andres-abreu/LOVE-MATCH-CALCULATOR"
+    },
+
+    {
+      name: "Technology Blog",
+      id: "tech-blog-screen-shot",
+      description: "This blog-post allows users to create and share technology-focused-post, users may view, edit, delete & comment.",
+      liveURL: "https://stark-bastion-74188.herokuapp.com/dashboard",
+      gitHub: "https://github.com/andres-abreu/TECH-BLOG",
+    },
+
+
   ];
   return (
     <section>
