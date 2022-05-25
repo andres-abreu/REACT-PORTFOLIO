@@ -37,6 +37,31 @@ function Portfolio() {
       gitHub: "https://github.com/andres-abreu/TECH-BLOG",
     },
 
+    {
+      name: "Note Taker",
+      id: "note-taker-screen-shot",
+      description:
+      "This is a simple note-taking-app that can save and retreive data from a JSON-file using express.js on the back-end.",
+      liveURL: "https://glacial-wildwood-22711.herokuapp.com/",
+      gitHub: "https://github.com/andres-abreu/NOTE-TAKER"
+    },
+
+    {
+      name: "Work Day Scheduler",
+      id: "work-day-scheduler-screen-shot",
+      description: "This work-day-scheduler will organize your daily-work-life, simply add an event in the corresponding hour, click on the save",
+      liveURL: "https://andres-abreu.github.io/WORK-DAY-SCHEDULER/",
+      gitHub: "https://github.com/andres-abreu/WORK-DAY-SCHEDULER"
+    },
+
+    {
+      name: "Password Generator",
+      id: "password-generator-screen-shot",
+      description: "The user will have the choice with the quantity of characters within their password, to aid the user with the creation of their password they will be prompted to choose characters from four-separate-heiroglyphic-options such as capital-case, small-case, numbers, special-characters.",
+      liveURL: "https://andres-abreu.github.io/PASSWORD-GENERATOR/",
+      gitHub: "https://github.com/andres-abreu/PASSWORD-GENERATOR"
+    },
+
 
   ];
   return (
