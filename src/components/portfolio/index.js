@@ -72,7 +72,7 @@ function Portfolio() {
 
     {
       name: "Race of the year",
-      id: "race-of-the-year-photo.png",
+      id: "race-of-the-year-photo",
       description: "A marathon-event registration and support web-site",
       liveURL: "https://https://ancient-sierra-07886.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/race-of-the-year"
