@@ -70,6 +70,14 @@ function Portfolio() {
       gitHub: "https://github.com/andres-abreu/FIND-IT"
     },
 
+    {
+      name: "Race of the yeart",
+      id: "race-of-the-year-photo.png",
+      description: "A marathon-event registration and support web-site",
+      liveURL: "https://https://ancient-sierra-07886.herokuapp.com/",
+      gitHub: "https://github.com/andres-abreu/race-of-the-year"
+    },
+
 
   ];
   return (
