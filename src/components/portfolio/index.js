@@ -71,7 +71,7 @@ function Portfolio() {
     },
 
     {
-      name: "Race of the yeart",
+      name: "Race of the year",
       id: "race-of-the-year-photo.png",
       description: "A marathon-event registration and support web-site",
       liveURL: "https://https://ancient-sierra-07886.herokuapp.com/",
