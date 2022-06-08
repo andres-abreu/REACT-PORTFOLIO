@@ -101,7 +101,7 @@ function Contact() {
             </button>
           </div>
           
-          <div
+          {/* <div
             className="card m-3 border border-dark border-solid border-3"
             style={{
               minWidth: `${width}%`,
@@ -119,7 +119,7 @@ function Contact() {
                 </i>
               </p>
             </address>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

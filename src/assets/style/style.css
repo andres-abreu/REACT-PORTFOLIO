@@ -13,6 +13,10 @@ html {
     background-color: #D8CFAF;
   } */
   
+  .sticky-top {
+    margin-left: 55px;
+    margin-right: 20px;
+  }
   nav, footer {
     background-color: transparent;
   }
@@ -30,7 +34,7 @@ html {
   }
   
   #avatar {
-    max-height: 45vh;
+    max-height: 35vh;
     border-radius: 200px;
     border: none;
   }
