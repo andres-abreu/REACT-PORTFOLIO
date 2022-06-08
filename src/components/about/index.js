@@ -13,7 +13,7 @@ function About() {
         <div className="m-5 text-left" id="aboutMe">
           <h2 className="fw-bold">About Me</h2>
           <p className="fw-bold lh-lg">
-          I'm a South-Florida native, with an extensive-background in the fields of medicine[both eastern/western], psychology, e-commerce, real-estate, music-writing/publishing, audio-engineering/production, music-business and currently a recording-studio-owner. Adding full-stack-web-development into my skill-set was a inspirational, motivational and strategic-choice in which allows more control and options with more tools in regards to business or personal-interests, work or simply creativity.  Further more, as a bit-coin-block-chain supporter and ethusiast, I run my own bit-coin-block-chain/lightning-network-node.
+          I am a full-stack-web-developer educated from the University of Miami with the acquired skills in HTML, CSS, JavaScript, Python, AWS, Java, C-Sharp, MERN-stack, REACT and strengths in meeting deadlines, creativity, and teamwork. I’m passionate about approaching programming challenges from different angles and collaborating with others to create meaningful web applications. Due to past studies and professions, I’m positioned to provide unique perspectives on how end users interact with websites and software-platforms by leveraging my background in music-production & publishing, medicine, psychology, real-estate, e-commerce & digital-marketing.  I am highly motivated and adaptive with a positive-solution-driven focus along with a team-playing-attitude operating with a fast learning curve and attention to detail.
           </p>
         </div>
       </section>
