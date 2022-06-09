@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c0e17892.css",
-    "main.js": "/react-portfolio/static/js/main.d1f7deb3.js",
+    "main.css": "/react-portfolio/static/css/main.2518a9b8.css",
+    "main.js": "/react-portfolio/static/js/main.052011af.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/race-of-the-year-photo.png": "/react-portfolio/static/media/race-of-the-year-photo.08adb5baa33a49c1e946.png",
     "static/media/andres-resume.png": "/react-portfolio/static/media/andres-resume.b720e1777f3df2e3f018.png",
@@ -15,14 +15,14 @@
     "static/media/work-day-scheduler-screen-shot.png": "/react-portfolio/static/media/work-day-scheduler-screen-shot.e3e88102efa883a7c63e.png",
     "static/media/note-taker-screen-shot.png": "/react-portfolio/static/media/note-taker-screen-shot.a139593baf3d4d6ef155.png",
     "static/media/resume2.png": "/react-portfolio/static/media/resume2.fad5504f8003b2277afa.png",
-    "static/media/andres-resume.docx": "/react-portfolio/static/media/andres-resume.bc5fb7be7abceb826d25.docx",
+    "static/media/andres-resume.docx": "/react-portfolio/static/media/andres-resume.ab18c81bef29c94f8045.docx",
     "index.html": "/react-portfolio/index.html",
-    "main.c0e17892.css.map": "/react-portfolio/static/css/main.c0e17892.css.map",
-    "main.d1f7deb3.js.map": "/react-portfolio/static/js/main.d1f7deb3.js.map",
+    "main.2518a9b8.css.map": "/react-portfolio/static/css/main.2518a9b8.css.map",
+    "main.052011af.js.map": "/react-portfolio/static/js/main.052011af.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0e17892.css",
-    "static/js/main.d1f7deb3.js"
+    "static/css/main.2518a9b8.css",
+    "static/js/main.052011af.js"
   ]
 }
