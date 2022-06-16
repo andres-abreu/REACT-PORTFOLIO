@@ -65,7 +65,7 @@ function Portfolio() {
     {
       name: "Find It",
       id: "find-it-screen-shot",
-      description: "FIND-IT allows users to buy and sell products via the FIND-IT market-place. Technologies in use are express-sessions, express-handle-bars, handle-bares, multer, mysqp2, sequelize and bycrypt for user security.",
+      description: "Find-it allows users to buy and sell products via the Find-it-market-place. Technologies in use are express-sessions, express-handle-bars, handle-bares, multer, mysqp2, sequelize and bycrypt for user security.",
       liveURL: "https://limitless-beach-87360.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/FIND-IT"
     },

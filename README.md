@@ -1,7 +1,7 @@
 # MY REACT-PROFILE
 
 ## DESCRIPTION
-This is a simple on-line profile in which showcases some of my projects or works, also allowing a download of my resume and a contact-function to send me a message.
+A REACT-based profile in which showcases my portfolio or projects and allows a download of my resume along with a contact page.
 
 ## IMAGE
 ![aa_react-profile-image](https://user-images.githubusercontent.com/94572199/170303885-ffc873a5-0743-431c-af4d-8d49037ea151.png)
