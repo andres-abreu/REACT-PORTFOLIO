@@ -101,25 +101,25 @@ function Contact() {
             </button>
           </div>
           
-          {/* <div
-            className="card m-3 border border-dark border-solid border-3"
+          <div
+            className="card m-2 border border-dark border-solid border-3"
             style={{
               minWidth: `${width}%`,
             }}
           >
-            <address className="p-3">
+            <address className="p-2">
               <p className="text-center fw-bold">Contact Information</p>
               <p className="text-center">
                 <i>
                   Andres Abreu 
-                  <br></br> <br></br> HIALEAH, FL 33012
-                  <br></br>
-                  <br></br>Phone: 333-333-3333
-                  <br></br>Email: andres@mail.com
+                  {/* <br></br> <br></br> HIALEAH, FL 33012 */}
+                  {/* <br></br> */}
+                  {/* <br></br>Phone: 786-747-9049 */}
+                  <br></br>Email: andresabreu.copyclaim@gmail.com
                 </i>
               </p>
             </address>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>
