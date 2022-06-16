@@ -6,7 +6,7 @@ function Portfolio() {
       name: "Budget Tracker",
       id: "budget-tracker-screen-shot",
       description:
-        "As the name states, this is a simple finance-ledger, utilizaing indexedDB & service-worker-functionality which provides a mobile-first PWA user-experience.",
+        "As the name states, this is a simple finance-ledger, utilizaing indexedDB, NoSQL & express technologies with service-worker-functionality which provides a mobile-first PWA user-experience.",
       liveURL: "https://stormy-scrubland-05355.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/BUDGET-TRACKER",
     },
@@ -15,7 +15,7 @@ function Portfolio() {
       name: "Weather Dashboard",
       id: "weather-dashboard_Screen Shot",
       description:
-        "This is a weather API that indicates the current weather at your chosen location.",
+        "This is a third-party-weather-API that indicates the current weather at your chosen location, using the local-storage to store any persistent data.",
       liveURL: "https://andres-abreu.github.io/WEATHER-DASHBOARD/",
       gitHub: "https://github.com/andres-abreu/WEATHER-DASHBOARD"
     },
@@ -32,7 +32,7 @@ function Portfolio() {
     {
       name: "Technology Blog",
       id: "tech-blog-screen-shot",
-      description: "This blog-post allows users to create and share technology-focused-post, users may view, edit, delete & comment.",
+      description: "This blog-post allows users to create and share technology-focused-post, users may view, edit, delete & comment. This app follows the model-view-controller[MVC] paradigm in its archetictural structure using handlebars.js as the templating language, Sequelize as the object-relational-mapping[ORM], and express-session-npm-package for authentication.",
       liveURL: "https://stark-bastion-74188.herokuapp.com/dashboard",
       gitHub: "https://github.com/andres-abreu/TECH-BLOG",
     },
@@ -49,7 +49,7 @@ function Portfolio() {
     {
       name: "Work Day Scheduler",
       id: "work-day-scheduler-screen-shot",
-      description: "This work-day-scheduler will organize your daily-work-life, simply add an event in the corresponding hour, click on the save",
+      description: "This third-party-API-work-day-scheduler uses the moment.js library to work with datea and time, This app features dynamically updated HTML and CSS powered by JQuery. This app will organize your daily-work-life, simply add an event in the corresponding hour and click on the save.",
       liveURL: "https://andres-abreu.github.io/WORK-DAY-SCHEDULER/",
       gitHub: "https://github.com/andres-abreu/WORK-DAY-SCHEDULER"
     },
@@ -57,7 +57,7 @@ function Portfolio() {
     {
       name: "Password Generator",
       id: "password-generator-screen-shot",
-      description: "The user will have the choice with the quantity of characters within their password, to aid the user with the creation of their password they will be prompted to choose characters from four-separate-heiroglyphic-options such as capital-case, small-case, numbers, special-characters.",
+      description: "This application will generate random passwords base on the criteria selected and features dynamically updated HTML and CSS powered by JavaScript. The user will have the choice with the quantity of characters within their password, to aid the user with the creation of their password they will be prompted to choose characters from four-separate-heiroglyphic-options such as capital-case, small-case, numbers, special-characters.",
       liveURL: "https://andres-abreu.github.io/PASSWORD-GENERATOR/",
       gitHub: "https://github.com/andres-abreu/PASSWORD-GENERATOR"
     },
@@ -65,7 +65,7 @@ function Portfolio() {
     {
       name: "Find It",
       id: "find-it-screen-shot",
-      description: "FIND-IT allows users to buy and sell products via the FIND-IT market-place.",
+      description: "FIND-IT allows users to buy and sell products via the FIND-IT market-place. Technologies in use are express-sessions, express-handle-bars, handle-bares, multer, mysqp2, sequelize and bycrypt for user security.",
       liveURL: "https://limitless-beach-87360.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/FIND-IT"
     },
@@ -73,7 +73,7 @@ function Portfolio() {
     {
       name: "Race of the year",
       id: "race-of-the-year-photo",
-      description: "A marathon-event registration and support web-site",
+      description: "A REACT-based marathon-event-registration and support web-site using json-web-tokens for encryption, graphQL for fulfilling queries with existing data.",
       liveURL: "https://https://ancient-sierra-07886.herokuapp.com/",
       gitHub: "https://github.com/andres-abreu/race-of-the-year"
     },
