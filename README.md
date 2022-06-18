@@ -1,15 +1,16 @@
 # MY REACT-PROFILE
 
 ## DESCRIPTION
-A REACT-based profile in which showcases my portfolio or projects and allows a download of my resume along with a contact page.
-
-## TECHNOLOGIES IN USE
 <div id="badges">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react badge"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="GH-pages Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javaScript badge"/>
+    <br/>
+    <br/>
  </div>
+ 
+ A REACT-based profile in which showcases my portfolio or projects and allows a download of my resume along with a contact page.
 
 ## IMAGE
 ![aa_react-profile-image](https://user-images.githubusercontent.com/94572199/170303885-ffc873a5-0743-431c-af4d-8d49037ea151.png)
